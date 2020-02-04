@@ -6,7 +6,7 @@ copyright = "River Side Bowling GmbH"
 enableRobotsTXT = true
 googleAnalytics = ""
 languageCode = "de-de"
-theme = "ananke"
+theme = "hugo-assembly"
 title = "River Side Bowling"
 
 [params]
