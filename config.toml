@@ -1,36 +1,32 @@
-title = "River Side Bowling"
-copyright = "River Side Bowling GmbH"
+DefaultContentLanguage = "de"
+MetaDataFormat = "yaml"
+Paginate = 3
+SectionPagesMenu = "main"
 baseURL = "/"
+copyright = "River Side Bowling GmbH"
+enableRobotsTXT = true
+googleAnalytics = ""
 languageCode = "de-de"
 theme = "ananke"
 themesDir = "themes"
-
-MetaDataFormat = "yaml"
-DefaultContentLanguage = "de"
-SectionPagesMenu = "main"
-Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
-googleAnalytics = ""
-enableRobotsTXT = true
-
-[sitemap]
-  changefreq = "monthly"
-  priority = 0.5
-  filename = "sitemap.xml"
-
+title = "River Side Bowling"
 [params]
-  favicon = ""
-  description = "The last theme you'll ever need. Maybe."
-  facebook = "https://www.facebook.com/RiverSideBowling/"
-  twitter = ""
-  instagram = ""
-  youtube = ""
-  github = ""
-  gitlab = ""
-  linkedin = ""
-  mastodon = ""
-  slack = ""
-  stackoverflow = ""
-  # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
-  background_color_class = "bg-black"
-  featured_image = "/images/gohugo-default-sample-hero-image.jpg"
-  recent_posts_number = 2
+background_color_class = "bg-black"
+description = "The last theme you'll ever need. Maybe."
+facebook = "https://www.facebook.com/RiverSideBowling/"
+favicon = ""
+featured_image = "/images/gohugo-default-sample-hero-image.jpg"
+github = ""
+gitlab = ""
+instagram = ""
+linkedin = ""
+mastodon = ""
+recent_posts_number = 2
+slack = ""
+stackoverflow = ""
+twitter = ""
+youtube = ""
+[sitemap]
+changefreq = "monthly"
+filename = "sitemap.xml"
+priority = 0.5
