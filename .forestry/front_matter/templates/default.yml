@@ -4,12 +4,15 @@ hide_body: false
 fields:
 - type: text
   name: title
-  label: title
+  label: Title
 - type: file
   name: featured_image
-  label: featured_image
+  label: Featured Image
 - type: text
   name: description
-  label: description
+  label: Description
+- name: omit_header_text
+  type: boolean
+  label: Omit header text
 pages:
 - content/Bowling/bowling.md
