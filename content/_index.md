@@ -22,4 +22,4 @@ Andere Sportarten werden bei großen Events wie Weltmeisterschaften oder Europam
 
 Falls Sie ein Sportevent bei uns Live miterleben möchten, sprechen Sie uns einfach darauf an.
 
-Im Riverside-Bowling Tübingen finden Sie einen Platz wo Sie sich mit Freunden treffen, sich bei einer Partie Billard entspannen oder Sportevents Live im TV betrachten können. Für Verpflegung wird bestens gesorgt, unsere Mitarbeiter beraten Sie gerne.
+Hier im Riverside-Bowling finden Sie einen Platz wo Sie sich mit Freunden treffen, sich bei einer Partie Billard entspannen oder Sportevents Live im TV betrachten können. Für Verpflegung wird bestens gesorgt, unsere Mitarbeiter beraten Sie gerne.
