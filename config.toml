@@ -7,20 +7,19 @@ enableRobotsTXT = true
 googleAnalytics = ""
 languageCode = "de-de"
 theme = "ananke"
-themesDir = "themes"
 title = "River Side Bowling"
+
 [params]
 background_color_class = "bg-black"
-description = "The last theme you'll ever need. Maybe."
+description = ""
 facebook = "https://www.facebook.com/RiverSideBowling/"
 favicon = ""
-featured_image = "/images/gohugo-default-sample-hero-image.jpg"
+featured_image = ""
 github = ""
 gitlab = ""
 instagram = ""
 linkedin = ""
 mastodon = ""
-recent_posts_number = 2
 slack = ""
 stackoverflow = ""
 twitter = ""
