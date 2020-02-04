@@ -2,7 +2,7 @@
 title: Bowling
 featured_image: "/images/counter-theke-bahnen.jpg"
 description: Bowlingbahnen und Spielpreise
-omit_header_text: true
+omit_header_text: false
 
 ---
 ![](/images/bowling-preise.jpg)
