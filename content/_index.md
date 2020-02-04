@@ -1,6 +1,6 @@
 ---
 title: Das River Side Bowling in Tübingen
-featured_image: "/images/gohugo-default-sample-hero-image.jpg"
+featured_image: "/static/uploads/CounterThekeBahnen.jpg"
 description: Bowling. Kegeln. Billard. Gastronomie.
 
 ---
