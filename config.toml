@@ -1,6 +1,5 @@
 DefaultContentLanguage = "de"
 MetaDataFormat = "yaml"
-Paginate = 3
 SectionPagesMenu = "main"
 baseURL = "/"
 copyright = "River Side Bowling GmbH"
